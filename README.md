@@ -46,7 +46,7 @@ You can visit the live version here (if hosted):
 
 Feel free to reach out if you'd like to collaborate or have any questions!
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: keerthanaramesh28112003@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/keerthana-ramesh-b80134278](https://www.linkedin.com/in/keerthana-ramesh-b80134278)  
 - 💻 GitHub: [github.com/Keerthana2811200](https://github.com/Keerthana2811200)
 
